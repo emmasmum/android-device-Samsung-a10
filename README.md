@@ -1,0 +1,1 @@
+# android-device-Samsung-a10
